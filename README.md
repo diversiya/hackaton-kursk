@@ -1,5 +1,5 @@
 Презентация для Хакатона в ЮЗГУ
 
-Всё сделано в [https://github.com/shower/shower](Showere).
+Всё сделано в [Showere](https://github.com/shower/shower).
 
 У меня всё, берегите себя.
